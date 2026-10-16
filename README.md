@@ -1,6 +1,6 @@
 # 吃什么 · MVP 原型
 
-🖱️ 在线直接体验（不用下载，推荐）：https://nandu912-lab.github.io/Chi-shenme/（需要科学上网）
+🖱️ 在线直接体验（不用下载，推荐）：https://nandu912-lab.github.io/Chi-shenme/
 
 💬 想提意见 / 参与方案讨论：Issues
 
