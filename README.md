@@ -17,7 +17,7 @@
 
 ### 在线访问
 - GitHub: https://github.com/NanDu912-lab/Chi-shenme
-- GitHub Pages: https://nandu912-lab.github.io/Chi-shenme/（需要科学上网）
+- GitHub Pages: https://nandu912-lab.github.io/Chi-shenme/
 
 ## 技术栈
 
